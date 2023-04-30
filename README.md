@@ -44,7 +44,7 @@
   <br></br>
   <div>
     <a href="https://ingseo.notion.site/a614b41638b04c7da2191429b1cb6995?v=a2b364dcf694451e93f960ec5985c0d6"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
-    <a href="matilto:hey.inseo37@gmail.com"><img src="https://img.shields.io/badge/mail-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+    <a href="matilto:hey.inseo37@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
   </div>
 </div>
 <br></br>
