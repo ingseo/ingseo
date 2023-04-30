@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Ingseo's Github!&fontSize=70" />
 <div align="center">
-  <b>:books: Tech Stack :books:</b>
+  <b>:books: Skill :books:</b>
   <br></br>
   <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
